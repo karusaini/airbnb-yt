@@ -32,5 +32,5 @@ export async function GET() {
     });
   }
 
-  return NextResponse.redirect("https://airbnb-yt-git-main-karusainis-projects.vercel.app");
+  return NextResponse.redirect("https://airbnb-yt-liard-five.vercel.app");
 }
